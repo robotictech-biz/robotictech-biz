@@ -98,5 +98,3 @@ pr_ai (ปราย)
 email: admin@robotictech.biz  
 
 ---
-
-This template is a starting point and should be tailored to your specific app and its data practices. Always consult with a legal professional to ensure compliance with applicable laws.
